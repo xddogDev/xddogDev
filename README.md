@@ -36,6 +36,6 @@
 
 ### 📫 Onde me encontrar
 
-- Discord: `xddogDev#1234`
+- Discord: [Fantasma](https://discord.com/users/994037361824518164)
 - Email: ryanalexandreredes@gmail.com
 - Comunidade: [maralto](https://discord.gg/maralto)
