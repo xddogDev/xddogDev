@@ -39,3 +39,8 @@
 - Discord: `xddogDev#1234`
 - Email: contato@seusite.com
 - Site: [seusite.dev](https://seusite.dev)
+
+<p align="center">
+  <img src="https://github.com/xddogDev/xddogDev/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
